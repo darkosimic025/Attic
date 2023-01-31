@@ -1,0 +1,9 @@
+export const SIGN_UP = 'user/signup';
+export const SIGN_IN = 'user/signin';
+export const SIGN_OUT = 'user/signout';
+export const GET_USER_DATA = 'user/getUserData';
+export const UPDATE_USER_DATA = 'user/update';
+export const UPDATE_USER_PROFILE_PICTURE = 'user/updateProfilePicture';
+export const REMOVE_USER_PROFILE_PICTURE = 'user/removeProfilePicture';
+export const GET_NUMBER_NOTIFICATIONS = 'notifications/getNotifications';
+export const READ_NOTIFICATIONS = 'notifications/readNotifications';

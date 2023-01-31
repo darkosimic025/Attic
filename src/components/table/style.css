@@ -1,0 +1,24 @@
+.rowProps {
+  cursor: default !important;
+}
+
+.rowProps:hover {
+  cursor: default !important;
+}
+
+.cuttedItemRowProps {
+  cursor: default !important;
+  opacity: 0.4;
+}
+
+.euiTableCellContent__hoverItem > div > svg {
+  cursor: pointer !important;
+}
+
+.unreadItemRowProps {
+  cursor: default !important;
+  opacity: 1;
+  border-bottom: 5px solid rgba(255, 203, 203, 0.363);
+  border-top: 5px solid rgba(255, 203, 203, 0.363);
+  border-radius: 20px !important;
+}
